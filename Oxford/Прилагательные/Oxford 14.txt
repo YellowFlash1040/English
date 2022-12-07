@@ -1,0 +1,17 @@
+medical = медицинский
+professional = профессиональный
+academic = академический
+educational = образовательный
+scientific = научный
+online = онлайн
+digital = цифровой
+electronic = электронный
+electric = электрический
+genetic = генетический
+chemical = химический
+working = работающий
+technical = технический
+musical = музыкальный
+literary = литературный
+clinical = клинический
+developing = находящийся в разработке

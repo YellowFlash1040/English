@@ -1,0 +1,16 @@
+old man = пожилой человек\старик
+baby = младенец\ребенок
+import = импорт
+export = экспорт
+acute angle = острый угол
+obtuse angle = тупой угол
+fast = быстро
+slowly = медленно
+bottom = низ\дно
+top = верх
+misery = нищета
+luxury = роскошь
+joyful = радостный
+upset = расстроенный
+blame = обвинять
+justify = оправдывать

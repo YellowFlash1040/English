@@ -1,0 +1,47 @@
+family = семья
+love = любовь
+human = человек
+people = люди, народ
+man = мужчина, человек
+woman = женщина
+boy = мальчик
+guy = парень
+girl = девочка, девушка
+parents = родители
+mother = мать
+father = отец
+mom (Am.), mum (Br.) =, [mʌm= мама
+dad = папа
+grandmother = бабушка
+grandfather = дедушка
+grandparents = бабушки и дедушки
+brother = брат
+sister = сестра
+siblings = братья и сестры
+cousin = кузен (двоюродные братья и сестры)
+wife = жена
+husband = муж
+father-in-law = тесть, свекор (отец жены или мужа)
+mother-in-law = теща, свекровь (мать жены или мужа)
+son-in-law = зять
+daughter-in-law = невестка
+son = сын
+daughter = дочь
+baby = маленький ребенок
+children, kids =, [kɪdz= дети
+teenager = подросток
+aunt = тетя
+uncle = дядя
+niece = племянница
+nephew = [ˈnɛfju(ː)= племянник
+girlfriend = девушка (подруга)
+boyfriend = парень (бойфренд)
+friend = друг
+relatives = родственники
+engagement = помолвка
+marriage = женитьба
+wedding = свадьба
+fiancée, bride =, [braɪd= невеста
+fiancé, groom (bridegroom) =, [grʊm= [ˈbraɪdgrʊm= жених
+funeral = похороны
+birth = рождение

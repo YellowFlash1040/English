@@ -1,0 +1,26 @@
+maybe = может быть
+actually = на самом деле (вообще-то)
+probably = вероятно
+of course = [kɔːs= конечно
+perhaps = возможно
+possibly = возможно
+unfortunately = к сожалению
+certainly = конечно
+apparently = по-видимому
+indeed = действительно
+basically = в основном
+mainly = в основном
+especially = особенно
+particularly = особенно
+generally = в общем
+anyway = в любом случае
+particularly = в особенности
+obviously = очевидно
+moreover = более того
+nevertheless = тем не менее
+however = однако
+rather = скорее (скорее…, чем…)
+though = хотя
+thus = Таким образом…
+so = так
+otherwise = в противном случае

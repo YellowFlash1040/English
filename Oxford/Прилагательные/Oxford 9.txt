@@ -1,0 +1,16 @@
+economic = экономический
+free = бесплатный
+financial = финансовый
+commercial = коммерческий
+rich = богатый
+expensive = дорогой
+cheap = дешевый
+competitive = конкурентоспособный
+valuable = ценный
+poor = бедный
+remaining = оставшийся
+double = двойной
+numerous = многочисленные
+increasing = увеличивающийся
+total (total number) = общий (напр.общее количество)
+single = одиночный

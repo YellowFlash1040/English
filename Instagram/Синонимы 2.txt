@@ -1,0 +1,11 @@
+i don't know = i have no idea
+you can trust me = you can count on me
+let's spend time together = let's hang out
+will you help me? = do you mind helping me?
+hurry up, we are late = chop chop, we are late
+
+fast = prompt
+smart = ingenius
+remove = eliminate
+hard = challenging
+change = modify

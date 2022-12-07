@@ -1,0 +1,12 @@
+belief = вера
+faith = вера
+prayer = молитва
+priest = священник
+heaven = небеса
+Bible = Библия
+sin = грех
+church = церковь
+creation = создание (акт/процесс создания)
+being = бытие
+spirit = дух
+existence = существование

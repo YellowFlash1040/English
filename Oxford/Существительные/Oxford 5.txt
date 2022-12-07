@@ -1,0 +1,45 @@
+number = число
+digit = цифра
+value = значение (матем.)
+plus = плюс
+minus = минус
+fraction = дробь
+odd number = [ˈnʌmbə= нечетное число
+even number = [ˈnʌmbə= четное число
+problem = задача (арифм.)
+answer = ответ
+point = точка
+brackets = скобки (матем.)
+percent = процент
+half = половина
+quarter = четверть
+degree = степень
+addition = сложение
+subtraction = вычитание
+multiplication = умножение
+division = деление
+equality = равенство
+line = линия
+shape = форма, геом. Тело
+figure = фигура
+form = форма
+level = уровень
+circle = круг
+square = квадрат
+triangle = треугольник
+rectangle = прямоугольник
+sphere = сфера
+cube = куб
+cone = конус
+majority = большинство
+minority = меньшинство
+increase = увеличение
+decrease = уменьшение
+combination = комбинация, сочетание
+dimension = измерение (пространств.)
+chart = схема
+table = таблица
+statistics = статистика
+pair = пара
+unit = единица (напр. измерения)
+amount, number =, [ˈnʌmbə= количество

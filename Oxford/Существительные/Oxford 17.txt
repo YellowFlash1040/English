@@ -1,0 +1,30 @@
+movie = фильм
+film = фильм (кино\фотопленка)
+play = пьеса
+audience = аудитория (зрители)
+video = видео
+actor = актер
+series = серия, сериал
+studio = студия
+theater = театр
+viewer = зритель
+script (screenplay) = [ˈskriːnpleɪ= сценарий
+celebrity = знаменитость
+scene = сцена
+stage = сцена (место, где выступают актеры)
+song = песня
+band = группа (муз.)
+singer = певец
+musician = музыкант
+performance = выступление
+dance = танец
+dancer = танцор
+concert = концерт
+bell = колокольчик (колокол)
+string = струна
+story = история
+guitar = гитара
+piano = [ˈpjɑːnəʊ= пианино
+music = музыка
+role = роль
+show = шоу

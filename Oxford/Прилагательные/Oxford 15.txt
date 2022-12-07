@@ -1,0 +1,17 @@
+color (colour) = цвет
+black = черный
+white = белый
+dark = темный
+light = светлый
+red = красный
+orange = оранжевый
+yellow = желтый
+green = зеленый
+blue = голубой, синий
+purple = фиолетовый (темно-фиолетовый)
+violet = фиолетовый (фиалковый)
+pink = розовый
+silver = серебристый
+gold, golden = [gəʊldən= золотой
+brown = коричневый
+grey (gray) = серый

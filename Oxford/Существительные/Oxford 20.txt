@@ -1,0 +1,27 @@
+player = игрок
+sport = спорт
+race = гонка
+seat = сиденье (место)
+ball = мяч
+score = счет (в игре)
+turn = ход (напр. в игре)
+fan = болельщик (поклонник)
+run (running) = бег
+exercise = упражнение
+workout, training =, [ˈtreɪnɪŋ= тренировка
+athlete = спортсмен
+basketball = баскетбол
+football = футбол
+soccer = футбол
+hockey = хоккей
+chess = шахматы
+league = лига
+championship = чемпионат
+round = раунд
+match = матч
+champion = чемпион
+tournament = турнир
+game = игра
+stake, bet =, [bɛt= ставка
+winner = победитель
+loser = проигравший
